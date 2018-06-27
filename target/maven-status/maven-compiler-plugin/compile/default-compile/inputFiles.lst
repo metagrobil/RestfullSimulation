@@ -1,0 +1,8 @@
+/home/ogc/javaProjects/Backend/Backend/src/main/java/DataRetriever/BusinessLogic.java
+/home/ogc/javaProjects/Backend/Backend/src/main/java/DataAccess/JMSProvider.java
+/home/ogc/javaProjects/Backend/Backend/src/main/java/DataAccess/Context.java
+/home/ogc/javaProjects/Backend/Backend/src/main/java/DataAccess/RESTCommunication.java
+/home/ogc/javaProjects/Backend/Backend/src/main/java/DataAccess/DAO.java
+/home/ogc/javaProjects/Backend/Backend/src/main/java/DataAccess/ApplicationConfig.java
+/home/ogc/javaProjects/Backend/Backend/src/main/java/DataAccess/MetricsResource.java
+/home/ogc/javaProjects/Backend/Backend/src/main/java/DataAccess/Strategy.java

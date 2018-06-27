@@ -1,0 +1,8 @@
+DataAccess/RESTCommunication.class
+DataAccess/Strategy.class
+DataAccess/ApplicationConfig.class
+DataAccess/Context.class
+DataAccess/DAO.class
+DataAccess/MetricsResource.class
+DataAccess/JMSProvider.class
+DataRetriever/BusinessLogic.class
